@@ -1,0 +1,6 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugEight1\DebugEight1\bin\Debug\DebugEight1.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugEight1\DebugEight1\bin\Debug\DebugEight1.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugEight1\DebugEight1\bin\Debug\DebugEight1.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugEight1\DebugEight1\obj\Debug\DebugEight1.csprojResolveAssemblyReference.cache
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugEight1\DebugEight1\obj\Debug\DebugEight1.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugEight1\DebugEight1\obj\Debug\DebugEight1.pdb

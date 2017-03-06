@@ -1,0 +1,5 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugSeven4\DebugSeven4\bin\Debug\DebugSeven4.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugSeven4\DebugSeven4\bin\Debug\DebugSeven4.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugSeven4\DebugSeven4\bin\Debug\DebugSeven4.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugSeven4\DebugSeven4\obj\Debug\DebugSeven4.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugSeven4\DebugSeven4\obj\Debug\DebugSeven4.pdb
